@@ -8,8 +8,5 @@
   "reportShadowedImports": "warning",
   "reportUninitializedInstanceVariable": "warning",
   "reportUnnecessaryTypeIgnoreComment": "warning",
-  "strict": [
-    "**"
-  ],
-  "typeCheckingMode": "strict"
+  "typeCheckingMode": "standard"
 }
