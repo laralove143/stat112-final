@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the cleaned data
-file_path = "/Users/metekocoglu/Downloads/clean.csv"  
+file_path = "/Users/metekocoglu/Downloads/clean.csv"
 df_cleaned = pd.read_csv(file_path)
 
 # Display the first few rows of the dataset to ensure correct loading
@@ -47,7 +47,5 @@ plt.ylabel('Life Expectancy', fontsize=12)
 
 plt.tight_layout()  # Adjust the layout to prevent overlap
 plt.show()
-
-
 
 
