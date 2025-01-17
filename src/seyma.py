@@ -12,8 +12,8 @@ sns.set_theme(
 )
 
 # Loading the previously cleaned dateset
-cleaned_path = "/Users/seymakarabulut/Downloads/VERYclean.xlsx"
-df_cleaned = pd.read_excel(cleaned_path)
+file_path = "filepath.csv"  
+df_cleaned = pd.read_csv(file_path)  
 
 #The code of the boxplots that displays the relationships between Mortality Rate Per 1000, Cause of Death and Economic Status
 plt.figure(figsize=(12, 8))
