@@ -58,7 +58,6 @@ year,country,age_group,cause_of_death,economic_status,health_expenditure_gdp,mor
 2004,Indonesia,15-24,Cardiovascular,Low,16.57,4.36,73.8,Low,323284867,39745.9,65.1,25.6,83.4,10.8
 2004,India,15-24,Accidents,Middle,11.44,13.43,66.3,Medium,199193416,32132.61,21.3,8.0,84.4,78.3
 2004,Italy,15-24,Cardiovascular,Low,7.4,4.55,73.3,Low,81986985,71137.59,43.1,26.2,61.7,50.6
-2004,Italy,15-24,Cardiovascular,Low,7.4,4.55,73.3,Low,81986985,71137.59,43.1,26.2,61.7,50.6
 2004,Mexico,15-24,Cancer,Middle,9.82,5.97,67.0,High,454796246,32612.27,55.7,11.6,95.7,75.5
 2004,South africa,65+,Accidents,Low,8.96,3.44,64.8,Low,238644050,12889.14,87.9,20.0,63.8,77.2
 2004,South korea,15-24,Cancer,High,16.65,11.74,81.6,High,171086428,64329.76,25.0,14.2,95.9,31.8
@@ -96,7 +95,6 @@ year,country,age_group,cause_of_death,economic_status,health_expenditure_gdp,mor
 2006,Saudi arabia,25-54,Infectious diseases,High,14.28,6.85,66.2,Low,76959215,21738.18,75.0,18.5,73.8,28.1
 2006,Spain,25-54,Accidents,Low,16.56,13.76,60.5,High,435105526,75291.37,24.6,35.3,69.6,73.0
 2006,Turkey,0-14,Accidents,Low,6.66,6.55,82.8,High,291703905,41270.81,85.9,18.7,86.1,11.5
-2006,Turkey,0-14,Accidents,Low,6.66,6.55,82.8,High,291703905,41270.81,85.9,18.7,86.1,11.5
 2006,Uk,55-64,Other,High,15.59,13.74,63.8,High,135477576,52179.13,29.2,16.0,55.9,41.7
 2006,Usa,15-24,Other,High,4.61,12.53,69.9,Medium,414050686,9987.19,80.0,35.9,68.0,52.6
 2007,Argentina,15-24,Cardiovascular,High,17.34,9.66,73.9,Low,179119652,42854.92,42.2,34.9,60.3,47.3
@@ -120,7 +118,6 @@ year,country,age_group,cause_of_death,economic_status,health_expenditure_gdp,mor
 2008,Germany,25-54,Accidents,High,6.53,11.33,76.2,Low,204280674,25879.72,29.3,28.5,98.3,33.9
 2008,India,15-24,Infectious diseases,Middle,11.790179104477613,12.48,62.3,Low,492796386,3591.19,75.3,9.5,82.4,29.9
 2008,Italy,55-64,Infectious diseases,Middle,17.75,7.47,76.3,High,342518787,38008.44,51.7,36.5,93.3,57.3
-2008,Italy,55-64,Infectious diseases,Middle,17.75,7.47,76.3,High,342518787,38008.44,51.7,36.5,93.3,57.3
 2008,Japan,15-24,Accidents,Middle,17.76,9.74,68.9,Medium,191181514,51326.76,50.6,21.50593471810089,50.9,56.8
 2008,Mexico,0-14,Accidents,Middle,19.18,11.12,77.2,Low,78193286,71712.9,27.9,21.50593471810089,57.3,53.8
 2008,Russia,15-24,Cancer,High,19.43,9.52,67.7,High,238978350,3446.68,73.5,33.1,57.0,42.4
@@ -135,7 +132,6 @@ year,country,age_group,cause_of_death,economic_status,health_expenditure_gdp,mor
 2009,Canada,55-64,Accidents,Low,11.25,7.55,84.0,High,26721432,57025.28,55.899707602339184,16.9,63.0,11.1
 2009,France,15-24,Cardiovascular,Low,10.53,12.82,61.7,Low,32584226,55375.15,66.4,15.8,77.7,46.164201183431956
 2009,Germany,15-24,Cancer,Middle,9.5,8.51,66.5,Low,29111730,17669.53,31.9,35.0,66.8,20.2
-2009,Indonesia,55-64,Other,Low,13.51,12.27,82.7,High,429933348,36970.97,51.5,22.7,72.9,74.1
 2009,Indonesia,55-64,Other,Low,13.51,12.27,82.7,High,429933348,36970.97,51.5,22.7,72.9,74.1
 2009,India,15-24,Other,Low,9.15,4.18,78.0,High,228659400,36807.68,43.3,30.6,92.1,17.5
 2009,Italy,0-14,Cardiovascular,Low,11.790179104477613,14.16,60.7,High,399866435,18358.1,79.7,28.1,78.8,46.164201183431956
@@ -182,7 +178,6 @@ year,country,age_group,cause_of_death,economic_status,health_expenditure_gdp,mor
 2011,Uk,65+,Accidents,Low,17.02,13.34,66.6,Low,127070285,40331.67,60.0,7.9,67.8,12.4
 2011,Usa,65+,Other,Low,13.97,4.36,63.3,Medium,267526934,38125.93876832845,73.2,25.2,82.9,38.8
 2012,Argentina,65+,Other,Middle,19.45,14.87,65.3,Low,235199861,32413.16,29.9,9.4,61.8,60.2
-2012,Argentina,65+,Other,Middle,19.45,14.87,65.3,Low,235199861,32413.16,29.9,9.4,61.8,60.2
 2012,Brazil,65+,Cancer,Low,8.75,13.44,82.2,Low,213412714,69745.54,28.2,20.4,51.9,57.6
 2012,Canada,15-24,Cardiovascular,Middle,7.08,4.97,72.67396449704142,Medium,23473735,77870.58,49.0,6.7,52.6,72.4
 2012,China,55-64,Other,Low,17.11,6.94,66.0,Medium,413357391,56894.3,59.6,37.7,88.1,11.5
@@ -209,7 +204,6 @@ year,country,age_group,cause_of_death,economic_status,health_expenditure_gdp,mor
 2013,Indonesia,55-64,Cancer,Low,14.63,3.69,72.67396449704142,Medium,477041913,47230.39,65.5,16.7,93.1,26.7
 2013,India,0-14,Infectious diseases,Middle,4.5,12.91,74.0,Low,359782234,27336.06,56.4,24.8,51.6,57.7
 2013,Italy,25-54,Other,Middle,12.47,14.26,74.8,Low,38509669,14410.92,76.2,26.5,79.7,61.0
-2013,Japan,55-64,Cardiovascular,Middle,19.84,8.61,80.3,Medium,338507821,33772.9,39.7,9.7,88.2,59.0
 2013,Japan,55-64,Cardiovascular,Middle,19.84,8.61,80.3,Medium,338507821,33772.9,39.7,9.7,88.2,59.0
 2013,Mexico,15-24,Accidents,High,15.75,7.78,72.6,Low,173470523,46082.5,21.1,17.3,64.7,72.4
 2013,Russia,0-14,Infectious diseases,High,7.76,13.21,72.5,High,170651380,2173.63,37.7,29.3,63.0,45.4
@@ -243,7 +237,6 @@ year,country,age_group,cause_of_death,economic_status,health_expenditure_gdp,mor
 2015,Australia,15-24,Other,Low,12.4,7.4,75.3,High,331949612,53405.65,68.2,12.5,66.8,22.9
 2015,Brazil,0-14,Other,Middle,19.0,4.07,71.1,Low,307338131,59642.51,84.1,24.4,86.8,65.5
 2015,China,15-24,Accidents,Low,13.04,7.86,70.6,Medium,72742245,16684.89,20.0,27.3,95.2,32.6
-2015,China,15-24,Accidents,Low,13.04,7.86,70.6,Medium,72742245,16684.89,20.0,27.3,95.2,32.6
 2015,France,65+,Accidents,Middle,5.67,12.73,84.3,Low,52189941,31719.27,39.6,32.3,54.2,62.5
 2015,Germany,65+,Cancer,High,10.41,5.58,82.4,Medium,192416205,79072.71,41.7,36.9,90.8,19.1
 2015,Indonesia,15-24,Other,High,7.57,13.98,80.5,High,148346712,20132.49,84.6,34.0,78.0,46.0
@@ -267,21 +260,17 @@ year,country,age_group,cause_of_death,economic_status,health_expenditure_gdp,mor
 2016,Germany,15-24,Other,Middle,13.12,13.91,67.1,Medium,163412149,50683.51,49.7,6.3,82.2,76.8
 2016,India,15-24,Other,Low,17.3,5.72,81.3,Medium,381677942,74755.61,74.7,10.7,85.6,64.5
 2016,Italy,55-64,Cardiovascular,Low,19.47,8.0,76.7,Low,388766482,38125.93876832845,49.8,34.0,51.7,13.8
-2016,Italy,55-64,Cardiovascular,Low,19.47,8.0,76.7,Low,388766482,38125.93876832845,49.8,34.0,51.7,13.8
 2016,Mexico,0-14,Other,Middle,10.32,13.9,66.6,Medium,408429269,19455.11,64.5,39.3,75.56764705882352,44.8
-2016,South africa,65+,Cancer,Middle,8.45,12.38,82.6,Medium,360270652,62491.38,83.7,18.8,63.1,12.9
 2016,South africa,65+,Cancer,Middle,8.45,12.38,82.6,Medium,360270652,62491.38,83.7,18.8,63.1,12.9
 2016,South korea,55-64,Cancer,Middle,6.25,6.92,73.8,Medium,209011772,77701.47,59.0,11.0,70.9,13.4
 2016,Saudi arabia,25-54,Infectious diseases,Middle,9.9,6.3,61.1,Medium,209850148,54835.39,57.9,26.3,86.7,66.0
 2016,Spain,65+,Other,High,11.23,8.39,81.6,Low,442650328,23380.43,57.6,10.5,64.4,35.2
-2016,Turkey,65+,Infectious diseases,Middle,8.9,10.61,71.1,Low,450639810,32303.54,29.5,8.1,91.1,79.8
 2016,Turkey,65+,Infectious diseases,Middle,8.9,10.61,71.1,Low,450639810,32303.54,29.5,8.1,91.1,79.8
 2016,Uk,25-54,Cancer,Low,3.55,4.02,73.3,High,140261951,23909.0,51.7,23.4,86.4,16.2
 2016,Usa,15-24,Cancer,Middle,3.36,5.0,82.6,Low,462547942,14565.09,52.0,20.5,83.3,59.9
 2017,Australia,15-24,Other,High,11.79,5.31,67.5,Medium,300074311,75498.64,48.9,24.8,61.0,46.164201183431956
 2017,Brazil,55-64,Cancer,Middle,17.01,3.99,84.1,Low,164979203,26353.9,47.2,13.6,90.1,50.4
 2017,Canada,55-64,Other,Low,19.13,14.49,76.7,High,24376708,23742.48,81.5,16.0,60.9,56.7
-2017,China,15-24,Other,Middle,16.03,14.5,68.9,Low,32592869,24994.18,76.2,32.4,60.0,56.0
 2017,China,15-24,Other,Middle,16.03,14.5,68.9,Low,32592869,24994.18,76.2,32.4,60.0,56.0
 2017,France,55-64,Accidents,High,3.94,6.64,62.0,Medium,268280780,51943.63,76.3,35.2,63.9,21.5
 2017,Germany,15-24,Other,Low,16.79,9.39,80.1,High,96271298,56578.74,67.2,18.7,68.5,59.9
@@ -308,7 +297,6 @@ year,country,age_group,cause_of_death,economic_status,health_expenditure_gdp,mor
 2018,Japan,65+,Accidents,Low,19.42,8.9,64.0,Medium,117597986,64402.3,47.1,25.9,63.2,39.9
 2018,Mexico,65+,Infectious diseases,High,9.98,14.16,62.7,Low,231944739,16388.71,39.2,7.3,73.6,37.3
 2018,Russia,15-24,Cancer,Low,10.21,4.79,83.7,Medium,210663602,29691.94,57.9,28.2,68.5,39.2
-2018,Russia,15-24,Cancer,Low,10.21,4.79,83.7,Medium,210663602,29691.94,57.9,28.2,68.5,39.2
 2018,South africa,25-54,Accidents,Middle,6.7,7.6,72.3,Medium,445378057,65466.65,47.5,9.1,57.5,75.8
 2018,Saudi arabia,25-54,Cancer,High,3.44,3.04,72.2,High,337281288,51409.33,80.3,20.0,95.4,65.3
 2018,Spain,0-14,Other,Middle,9.52,7.3,67.1,Medium,73375898,30728.63,54.0,24.5,79.0,55.2
@@ -329,10 +317,8 @@ year,country,age_group,cause_of_death,economic_status,health_expenditure_gdp,mor
 2019,Turkey,25-54,Cancer,Low,5.65,7.94,83.7,High,406202491,54507.01,57.1,10.8,59.9,61.8
 2019,Uk,55-64,Cancer,High,3.17,10.72,82.2,Low,240662616,1536.27,38.9,31.4,61.7,78.2
 2020,Argentina,65+,Accidents,Middle,10.82,8.98,76.4,Low,15505563,41017.45,86.5,7.6,98.9,61.9
-2020,Argentina,65+,Accidents,Middle,10.82,8.98,76.4,Low,15505563,41017.45,86.5,7.6,98.9,61.9
 2020,Brazil,0-14,Cardiovascular,Middle,18.33,4.12,81.5,Low,456574641,25127.67,64.8,22.4,67.7,63.6
 2020,Canada,65+,Cancer,High,16.47,5.52,72.1,Medium,30359883,6205.48,65.9,37.6,53.9,68.1
-2020,China,55-64,Cardiovascular,Low,17.31,8.73287009063444,74.3,Low,494813330,11035.65,68.1,15.5,96.4,24.1
 2020,China,55-64,Cardiovascular,Low,17.31,8.73287009063444,74.3,Low,494813330,11035.65,68.1,15.5,96.4,24.1
 2020,France,15-24,Accidents,Low,19.98,3.47,64.8,Medium,491084985,75018.99,80.3,30.4,56.7,25.9
 2020,Germany,65+,Other,Middle,4.13,10.39,61.7,High,90305666,33185.02,70.0,23.4,71.4,71.1
@@ -342,7 +328,6 @@ year,country,age_group,cause_of_death,economic_status,health_expenditure_gdp,mor
 2020,Russia,25-54,Cardiovascular,Low,9.21,11.38,64.7,Medium,243233040,21151.89,48.6,16.9,78.5,47.2
 2020,South africa,25-54,Accidents,High,3.15,4.55,73.0,High,363434488,14746.83,49.3,15.0,72.1,46.164201183431956
 2020,South korea,15-24,Cardiovascular,Middle,7.26,8.7,65.9,Medium,483725630,2251.21,89.5,7.9,86.2,55.7
-2020,Saudi arabia,65+,Infectious diseases,High,18.1,12.2,66.7,High,372643162,30977.45,36.3,13.9,89.6,21.0
 2020,Saudi arabia,65+,Infectious diseases,High,18.1,12.2,66.7,High,372643162,30977.45,36.3,13.9,89.6,21.0
 2020,Turkey,65+,Other,High,13.32,6.72,73.3,High,281980544,45463.59,87.1,8.6,89.3,52.0
 2020,Uk,0-14,Accidents,Low,6.18,9.79,77.6,Low,405955002,16111.84,49.3,37.0,54.6,78.3
